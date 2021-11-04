@@ -1,0 +1,7 @@
+D:\Coding projects\Visual Studio Projects\SortingCSVdotNET\bin\Debug\SortingCSVdotNET.exe.config
+D:\Coding projects\Visual Studio Projects\SortingCSVdotNET\bin\Debug\SortingCSVdotNET.exe
+D:\Coding projects\Visual Studio Projects\SortingCSVdotNET\bin\Debug\SortingCSVdotNET.pdb
+D:\Coding projects\Visual Studio Projects\SortingCSVdotNET\obj\Debug\SortingCSVdotNET.csprojAssemblyReference.cache
+D:\Coding projects\Visual Studio Projects\SortingCSVdotNET\obj\Debug\SortingCSVdotNET.csproj.CoreCompileInputs.cache
+D:\Coding projects\Visual Studio Projects\SortingCSVdotNET\obj\Debug\SortingCSVdotNET.exe
+D:\Coding projects\Visual Studio Projects\SortingCSVdotNET\obj\Debug\SortingCSVdotNET.pdb
